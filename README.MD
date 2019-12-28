@@ -16,10 +16,10 @@ The output file contains a list of vectors (one vector per line, <n_results> lin
 ## Install
 Dependencies: Python3, numpy, scipy.
 
-Test environment with the required dependencies can be created using conda from the provided .yml file:
+Test environment with the required dependencies can be created using conda from the provided .yml file: <br>
 $ conda env create -f sampler_env.yml
 
-and activated using the following command:
+and activated using the following command: <br>
 $ conda activate sampler_env
 
 ## Sampling algorithm
